@@ -13,5 +13,5 @@ jobs:
             - name: sync fork
               uses: guodf/fork-sync@v0.0.1
               with:
-                  branchs: main
-                  upstream_repo: ttttupup/wxhelper
+                  branchs: ""
+                  upstream_repo: eatmoreapple/openwechat
